@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Form</string>
+   <string>Daily Task Planner</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color:orange;</string>
@@ -117,9 +117,6 @@ border-radius:8px;</string>
     <string notr="true">font:12pt;
 font-family:Arial;
 background-color:white;</string>
-   </property>
-   <property name="alignment">
-    <set>Qt::AlignCenter</set>
    </property>
    <property name="placeholderText">
     <string>Enter The Work</string>
